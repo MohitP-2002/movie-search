@@ -20,7 +20,7 @@ function Menu() {
   };
   return (
     <>
-      {/* <div>
+      <div>
         <nav className="navbar navbar-light bg-dark justify-content-between">
           <p className="navbar-brand text-warning">Movie Recommender</p>
           <form className="form-inline" onSubmit={fetchData}>
@@ -37,7 +37,7 @@ function Menu() {
             </button>
           </form>
         </nav>
-      </div> */}
+      </div>
 
       <div className="container my-3">
         <div className="row">
