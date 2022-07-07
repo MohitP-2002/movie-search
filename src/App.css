@@ -1,0 +1,17 @@
+.navbar-brand{
+    margin-left: 50px;
+    margin-top:5px;
+}
+.inputField{
+    width:250px;
+    margin-top:5px;
+    margin-right:20px;
+    font-style: initial;
+}
+.btn{
+    margin-right: 25px;
+}
+.findMovies{
+    text-align: center;
+    font-size: 30px;
+}
